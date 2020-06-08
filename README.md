@@ -1,6 +1,6 @@
 <h1 align="center">Ecoleta</h1>
 <h3 align="center">
-    <img alt="app" title="#app" width="800px" src="https://user-images.githubusercontent.com/43592310/84084369-b9d4db00-a9b9-11ea-8793-c736f3f03e5a.png">
+    <img alt="app" title="#app" width="800px" src="https://user-images.githubusercontent.com/43592310/84086554-88aad980-a9be-11ea-9f74-d393af146bd0.png">
     <br><br>
     <b>Contribua para um mundo melhor. Recicle!</b> 
 </h3>
